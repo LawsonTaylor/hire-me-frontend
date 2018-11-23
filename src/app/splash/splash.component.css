@@ -1,0 +1,26 @@
+.splash {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    height: 400px;
+}
+
+.graduate-image {
+    margin: 140px;
+}
+
+.role {
+    display: inline-grid;
+}
+
+.btn {
+    font-size: 1.3em;
+    padding: 16px;
+    background-color: rgb(46, 75, 119);
+    border-radius: 4px;
+    margin: 10px;
+    color: rgb(240, 239, 234);
+    box-shadow: 0px 17px 10px -10px rgba(0,0,0,0.4);
+}
